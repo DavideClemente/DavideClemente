@@ -1,9 +1,16 @@
-### Hi there 👋
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&duration=3000&pause=1000&color=1F95C5&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+Github+page!;I+am+Davide;I'm+a+software+engineer+%3C3;Have+a+great+day!" alt="Typing SVG" /></a>
+</p>
 
+---
+<div align="center">
 <!--
 **DavideClemente/DavideClemente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
