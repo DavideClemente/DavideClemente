@@ -12,7 +12,7 @@
 
 ## About me:
 
- 🔭 I’m currently working at Glintt Global
+ 🔭 I’m currently working at Blip.pt
  
  🌱 I’m currently learning Rust, Kafka
  
