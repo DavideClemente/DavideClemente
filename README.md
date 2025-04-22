@@ -12,11 +12,11 @@
 
 ## About me:
 
- 🔭 I’m currently working at Blip.pt
+ 🔭 I’m currently working at [Blip.pt](https://www.blip.pt/)
  
- 🌱 I’m currently learning Rust, Kafka
+ 🌱 My tec stack is mainly Java, Kafka, MySql and Cassandra
  
- 👨‍💻 I’m curently studing Cibersecurity at ISEP
+ 👨‍💻 Finishing my master's degree in cibersecurity at [ISEP](https://www.isep.ipp.pt/)
  
  💬 Ask me about any subject regarding technology or software development
  
@@ -27,6 +27,7 @@
 I play guitar 🎸
 I love music 🎧
 I'm passionate about race cars 🏎️
+Love playing video games 🎮
 
 ## Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/davide-clemente-) 
@@ -34,12 +35,14 @@ I'm passionate about race cars 🏎️
 ## Tech Stack 💻 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
 
 ## Some of my projects 📁
   
